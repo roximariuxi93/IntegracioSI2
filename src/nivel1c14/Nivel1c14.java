@@ -21,7 +21,7 @@ public class Nivel1c14 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ttravis integracion");
+        System.out.println("travis integracion");
         int [] vector;
         int tamaño=12,i=0;
         float acumula=0,promedio=0;
