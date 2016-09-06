@@ -23,7 +23,7 @@ public class Nivel1c14 {
         // TODO code application logic here
         System.out.println("ttravis integracion");
         int [] vector;
-        int tamaño=10,i=0;
+        int tamaño=12,i=0;
         float acumula=0,promedio=0;
         Scanner entrada=new Scanner(System.in);
         vector = new int [tamaño];
